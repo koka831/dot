@@ -15,4 +15,3 @@ autocmd colorscheme * highlight ALEWarningSign ctermbg=none ctermfg=yellow
 colorscheme gruvbox
 let g:lightline = {}
 let g:gruvbox_contrast_dark = 'hard'
-set background=dark
